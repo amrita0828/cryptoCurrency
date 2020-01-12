@@ -1,0 +1,11 @@
+/* button */
+.headerStyles button {
+    margin-left: 10px;
+}
+
+/* form */
+.headerStyles .input-group {
+    width: 50%;
+    margin: 10px;
+    display: inline-flex;
+}

@@ -1,0 +1,17 @@
+.logo{
+    border: 2px solid black;
+    font-weight: 500;
+}
+
+.logo img{
+    max-width: 90%;
+    margin: 1em auto;
+}
+
+.logo ul {
+    list-style-type: none;
+    padding: 1em;
+}
+.left {
+    border-top: 2px solid black;
+}
